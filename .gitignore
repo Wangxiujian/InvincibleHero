@@ -24,6 +24,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 Database/
+Design/
 
 # Visual Studio 2017 cache/options directory
 .vs/
